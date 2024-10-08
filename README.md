@@ -51,7 +51,7 @@ Visit the frontend at http://localhost:3000.
 Use the date picker to select a date and fetch NASA's Astronomy Picture of the Day.
 
 Deployment
-[https://bouncecodingchallenegedeploy-frwb0g5ba.vercel.app/]
+[https://musthaq-frontend.vercel.app/]
 
 Future Improvements
 Add gallery functionality for a range of dates.
